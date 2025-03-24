@@ -1,0 +1,19 @@
+{
+  "GIMP": "sudo apt install -y gimp",
+  "Krita": "sudo apt install -y krita",
+  "Inkscape": "sudo apt install -y inkscape",
+  "VLC": "sudo apt install -y vlc",
+  "MPV": "sudo apt install -y mpv",
+  "Kdenlive": "sudo apt install -y kdenlive",
+  "OBS Studio": "sudo apt install -y obs-studio",
+  "FFmpeg": "sudo apt install -y ffmpeg",
+  "Blender": "sudo apt install -y blender",
+  "HandBrake": "sudo apt install -y handbrake",
+  "Synaptic": "sudo apt install -y synaptic",
+  "Timeshift": "sudo apt install -y timeshift",
+  "GParted": "sudo apt install -y gparted",
+  "HTop": "sudo apt install -y htop",
+  "Stacer": "sudo apt install -y stacer",
+  "Neofetch": "sudo apt install -y neofetch",
+  "Caffeine": "sudo apt install -y caffeine"
+}

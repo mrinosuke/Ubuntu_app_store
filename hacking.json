@@ -1,0 +1,22 @@
+{
+  "WiFite": "sudo apt install -y wifite",
+  "John the Ripper": "sudo apt install -y john",
+  "Nmap": "sudo apt install -y nmap",
+  "Metasploit": "sudo apt install -y metasploit-framework",
+  "Aircrack-ng": "sudo apt install -y aircrack-ng",
+  "SQLMap": "sudo apt install -y sqlmap",
+  "Hydra": "sudo apt install -y hydra",
+  "Ettercap": "sudo apt install -y ettercap-graphical",
+  "Wireshark": "sudo apt install -y wireshark",
+  "Burp Suite": "sudo apt install -y burpsuite",
+  "Hashcat": "sudo apt install -y hashcat",
+  "Recon-ng": "sudo apt install -y recon-ng",
+  "Maltego": "sudo apt install -y maltego",
+  "OpenVAS": "sudo apt install -y openvas",
+  "ExploitDB": "sudo apt install -y exploitdb",
+  "Radare2": "sudo apt install -y radare2",
+  "Gophish": "sudo apt install -y gophish",
+  "Feroxbuster": "sudo apt install -y feroxbuster",
+  "APKTool": "sudo apt install -y apktool",
+  "RouterSploit": "sudo apt install -y routersploit"
+}

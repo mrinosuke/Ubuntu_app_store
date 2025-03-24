@@ -1,0 +1,19 @@
+{
+  "VS Code": "sudo apt install -y code",
+  "Gedit": "sudo apt install -y gedit",
+  "Geany": "sudo apt install -y geany",
+  "Vim": "sudo apt install -y vim",
+  "Emacs": "sudo apt install -y emacs",
+  "Nano": "sudo apt install -y nano",
+  "Sublime Text": "sudo apt install -y sublime-text",
+  "Brackets": "sudo apt install -y brackets",
+  "Bluefish": "sudo apt install -y bluefish",
+  "Anjuta": "sudo apt install -y anjuta",
+  "Eclipse": "sudo apt install -y eclipse",
+  "NetBeans": "sudo apt install -y netbeans",
+  "JetBrains Toolbox": "sudo apt install -y jetbrains-toolbox",
+  "Qt Creator": "sudo apt install -y qtcreator",
+  "IDLE (Python 3.10)": "sudo apt install -y idle-python3.10",
+  "Spyder": "sudo apt install -y spyder",
+  "Arduino": "sudo apt install -y arduino"
+}

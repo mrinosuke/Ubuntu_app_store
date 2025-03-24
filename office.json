@@ -1,0 +1,19 @@
+{
+  "LibreOffice": "sudo apt install -y libreoffice",
+  "OnlyOffice": "sudo apt install -y onlyoffice-desktopeditors",
+  "AbiWord": "sudo apt install -y abiword",
+  "Gnumeric": "sudo apt install -y gnumeric",
+  "Evince": "sudo apt install -y evince",
+  "Okular": "sudo apt install -y okular",
+  "PDF Arranger": "sudo apt install -y pdfarranger",
+  "Scribus": "sudo apt install -y scribus",
+  "Calibre": "sudo apt install -y calibre",
+  "Zathura": "sudo apt install -y zathura",
+  "TeX Live": "sudo apt install -y texlive-full",
+  "Gnome Calendar": "sudo apt install -y gnome-calendar",
+  "Thunderbird": "sudo apt install -y thunderbird",
+  "Geary": "sudo apt install -y geary",
+  "Remmina": "sudo apt install -y remmina",
+  "Kile": "sudo apt install -y kile",
+  "Master PDF Editor": "sudo apt install -y masterpdfeditor"
+}
