@@ -16,11 +16,10 @@ apt-get upgrade -y
 
 apt install python3
 
-mkdir app
-
-cd app
 
 git clone https://github.com/mrinosuke/Ubuntu_app_store
+
+cd Ubuntu_app_store
 
 ls
 
